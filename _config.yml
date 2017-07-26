@@ -3,8 +3,8 @@ title:       Kyle Conarro
 email:       kyle.conarro@gmail.com
 author:      Kyle Conarro
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "https://conarro.github.io/conarro.com"
+baseurl:     "/conarro.com"
+url:         "https://conarro.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
