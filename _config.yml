@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Kyle Conarro
+email:       kyle.conarro@gmail.com
+author:      Kyle Conarro
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "/conarro.com"
+url:         "https://conarro.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
